@@ -1,1 +1,1 @@
-# shadow-of-the-weird-wizard-quick-start
+# Shadow of the Weird Wizard: Quick Start Module
