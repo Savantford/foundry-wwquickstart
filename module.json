@@ -1,0 +1,47 @@
+{
+  "id": "shadow-of-the-weird-wizard-quick-start",
+  "title": "Shadow of the Weird Wizard: Quick Start",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "weirdwizard",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A package with Compendium containing the Quick Start Character, Enemies and Allies.",
+  "authors": [
+    {
+      "name": "Fatlus / Savantford",
+      "discord": "violencia",
+      "email": "gadopublishing@gmail.com",
+      "url": "https://github.com/Savantford/",
+      "flags": {}
+    },
+    {
+      "name": "Nory",
+      "discord": "bigglebe",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "quick-start",
+      "label": "Quick Start",
+      "path": "packs/quick-start",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "weirdwizard",
+      "flags": {}
+    }
+  ]
+}
