@@ -19,14 +19,12 @@
   "authors": [
     {
       "name": "Fatlus (Savantford)",
-      "discord": "@violencia",
       "url": "https://github.com/Savantford/",
-      "flags": {}
+      "discord": "@violencia"
     },
     {
       "name": "Nory",
-      "discord": "bigglebe",
-      "flags": {}
+      "discord": "bigglebe"
     }
   ],
   "packs": [
@@ -39,8 +37,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "weirdwizard",
-      "flags": {}
+      "system": "weirdwizard"
     }
   ]
 }
