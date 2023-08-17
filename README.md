@@ -3,10 +3,16 @@ Hail!
 
 This is a [Foundry Virtual Tabletop](https://foundryvtt.com/) Compendium module containing the Characters, Allies and Enemies included in Shadow of the Weird Wizard's [Quick Start material](https://www.drivethrurpg.com/product/447890/Weird-Wizard-Quick-Play), written for the [Shadow of the Weird Wizard](https://github.com/Savantford/foundry-weirdwizard) system.
 
-Please read the instructions below to install it manually.
+# Installation Guide
+Please read the instructions below to learn how to install the module.
 
-# Installing the Module
-To install the module, follow the steps below.
+## Install Shadow of the Weird Wizard System
+Before installing the module, you must first install the game system.
+
+See [this guide](https://github.com/Savantford/foundry-weirdwizard#readme) to learn how to install it. Make sure to install the latest version, as the module is always updated to work with the latest system version launched.
+
+## Installing the Module
+Once the system is installed, follow the steps to install the Quick Start module.
 
 1. Open `Foundry Virtual Tabletop` application.
 2. Go to the `Add-on Modules` tab.
@@ -28,7 +34,7 @@ After installing the module, you have to enable it on your world.
 ## Installing Older Versions
 If you want to install an older version of the module, you first need to get a Manifest URL (`module.json`) to that specific version.
 Follow the steps below to get the Manifest URL.
-1. Go to the [Releases](https://github.com/Savantford/foundry-weirdwizard/releases) section.
+1. Go to the [Releases](https://github.com/Savantford/foundry-wwquickstart/releases) section.
 2. Find the version you'd like to install. The most recent versions are listed first.
 3. At the end of the release post, find the `module.json` on the attachments.
 4. Right click on it and copy the link address.
@@ -37,7 +43,7 @@ Follow the steps below to get the Manifest URL.
 # Bugs & Feedback
 If you want to report a bug or share feedback about the module, please join the `SotDL for Foundry VTT` Discord server and then talk to me in the `#weirdwizard` channel. I'm `Friend / Fatlus` there, by the way!
 
-For a comprehensive list of bug reports and feedback given, please check our [Notion's board](https://www.notion.so/gado-publishing/Foundry-s-Weird-Wizard-Issues-59094762fce441269199d10747e1c807) or the [Issues](https://github.com/Savantford/foundry-weirdwizard/issues) here in GitHub.
+For a comprehensive list of bug reports and feedback given, please check our [Notion's board](https://www.notion.so/gado-publishing/Foundry-s-Weird-Wizard-Issues-59094762fce441269199d10747e1c807) or the [Issues](https://github.com/Savantford/foundry-wwquickstart/issues) here in GitHub.
 
 Thank you for all the reports and feedback!
 

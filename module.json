@@ -15,7 +15,9 @@
       {
         "id": "weirdwizard",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "0.8.0"
+        }
       }
     ]
   },
