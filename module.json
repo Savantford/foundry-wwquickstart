@@ -7,7 +7,7 @@
   "download": "#{DOWNLOAD}#",
   "readme": "https://github.com/Savantford/foundry-wwquickstart#readme",
   "compatibility": {
-    "minimum": "10",
+    "minimum": "11",
     "verified": "11"
   },
   "relationships": {
@@ -24,9 +24,9 @@
   "description": "A Compendium module for Shadow of the Weird Wizard containing the Quick Start Characters, Enemies and Allies.",
   "authors": [
     {
-      "name": "Fatlus (Savantford)",
+      "name": "Friend (Savantford)",
       "url": "https://github.com/Savantford/",
-      "discord": "@violencia"
+      "discord": "violencia"
     },
     {
       "name": "Nory",
